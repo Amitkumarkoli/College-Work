@@ -1,0 +1,14 @@
+D:\c#\prac3\bin\Debug\net8.0\prac3.exe
+D:\c#\prac3\bin\Debug\net8.0\prac3.deps.json
+D:\c#\prac3\bin\Debug\net8.0\prac3.runtimeconfig.json
+D:\c#\prac3\bin\Debug\net8.0\prac3.dll
+D:\c#\prac3\bin\Debug\net8.0\prac3.pdb
+D:\c#\prac3\obj\Debug\net8.0\prac3.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\prac3\obj\Debug\net8.0\prac3.AssemblyInfoInputs.cache
+D:\c#\prac3\obj\Debug\net8.0\prac3.AssemblyInfo.cs
+D:\c#\prac3\obj\Debug\net8.0\prac3.csproj.CoreCompileInputs.cache
+D:\c#\prac3\obj\Debug\net8.0\prac3.dll
+D:\c#\prac3\obj\Debug\net8.0\refint\prac3.dll
+D:\c#\prac3\obj\Debug\net8.0\prac3.pdb
+D:\c#\prac3\obj\Debug\net8.0\prac3.genruntimeconfig.cache
+D:\c#\prac3\obj\Debug\net8.0\ref\prac3.dll

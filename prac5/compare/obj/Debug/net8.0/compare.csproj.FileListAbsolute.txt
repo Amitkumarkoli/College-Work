@@ -1,0 +1,14 @@
+D:\c#\prac5\compare\bin\Debug\net8.0\compare.exe
+D:\c#\prac5\compare\bin\Debug\net8.0\compare.deps.json
+D:\c#\prac5\compare\bin\Debug\net8.0\compare.runtimeconfig.json
+D:\c#\prac5\compare\bin\Debug\net8.0\compare.dll
+D:\c#\prac5\compare\bin\Debug\net8.0\compare.pdb
+D:\c#\prac5\compare\obj\Debug\net8.0\compare.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\prac5\compare\obj\Debug\net8.0\compare.AssemblyInfoInputs.cache
+D:\c#\prac5\compare\obj\Debug\net8.0\compare.AssemblyInfo.cs
+D:\c#\prac5\compare\obj\Debug\net8.0\compare.csproj.CoreCompileInputs.cache
+D:\c#\prac5\compare\obj\Debug\net8.0\compare.dll
+D:\c#\prac5\compare\obj\Debug\net8.0\refint\compare.dll
+D:\c#\prac5\compare\obj\Debug\net8.0\compare.pdb
+D:\c#\prac5\compare\obj\Debug\net8.0\compare.genruntimeconfig.cache
+D:\c#\prac5\compare\obj\Debug\net8.0\ref\compare.dll

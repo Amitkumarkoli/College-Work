@@ -1,0 +1,14 @@
+D:\c#\prac5\concat\bin\Debug\net8.0\concat.exe
+D:\c#\prac5\concat\bin\Debug\net8.0\concat.deps.json
+D:\c#\prac5\concat\bin\Debug\net8.0\concat.runtimeconfig.json
+D:\c#\prac5\concat\bin\Debug\net8.0\concat.dll
+D:\c#\prac5\concat\bin\Debug\net8.0\concat.pdb
+D:\c#\prac5\concat\obj\Debug\net8.0\concat.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\prac5\concat\obj\Debug\net8.0\concat.AssemblyInfoInputs.cache
+D:\c#\prac5\concat\obj\Debug\net8.0\concat.AssemblyInfo.cs
+D:\c#\prac5\concat\obj\Debug\net8.0\concat.csproj.CoreCompileInputs.cache
+D:\c#\prac5\concat\obj\Debug\net8.0\concat.dll
+D:\c#\prac5\concat\obj\Debug\net8.0\refint\concat.dll
+D:\c#\prac5\concat\obj\Debug\net8.0\concat.pdb
+D:\c#\prac5\concat\obj\Debug\net8.0\concat.genruntimeconfig.cache
+D:\c#\prac5\concat\obj\Debug\net8.0\ref\concat.dll

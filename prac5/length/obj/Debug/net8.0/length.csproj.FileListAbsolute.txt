@@ -1,0 +1,14 @@
+D:\c#\prac5\length\bin\Debug\net8.0\length.exe
+D:\c#\prac5\length\bin\Debug\net8.0\length.deps.json
+D:\c#\prac5\length\bin\Debug\net8.0\length.runtimeconfig.json
+D:\c#\prac5\length\bin\Debug\net8.0\length.dll
+D:\c#\prac5\length\bin\Debug\net8.0\length.pdb
+D:\c#\prac5\length\obj\Debug\net8.0\length.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\prac5\length\obj\Debug\net8.0\length.AssemblyInfoInputs.cache
+D:\c#\prac5\length\obj\Debug\net8.0\length.AssemblyInfo.cs
+D:\c#\prac5\length\obj\Debug\net8.0\length.csproj.CoreCompileInputs.cache
+D:\c#\prac5\length\obj\Debug\net8.0\length.dll
+D:\c#\prac5\length\obj\Debug\net8.0\refint\length.dll
+D:\c#\prac5\length\obj\Debug\net8.0\length.pdb
+D:\c#\prac5\length\obj\Debug\net8.0\length.genruntimeconfig.cache
+D:\c#\prac5\length\obj\Debug\net8.0\ref\length.dll

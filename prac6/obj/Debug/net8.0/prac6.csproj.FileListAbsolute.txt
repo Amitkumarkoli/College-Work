@@ -1,0 +1,14 @@
+D:\c#\prac6\bin\Debug\net8.0\prac6.exe
+D:\c#\prac6\bin\Debug\net8.0\prac6.deps.json
+D:\c#\prac6\bin\Debug\net8.0\prac6.runtimeconfig.json
+D:\c#\prac6\bin\Debug\net8.0\prac6.dll
+D:\c#\prac6\bin\Debug\net8.0\prac6.pdb
+D:\c#\prac6\obj\Debug\net8.0\prac6.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\prac6\obj\Debug\net8.0\prac6.AssemblyInfoInputs.cache
+D:\c#\prac6\obj\Debug\net8.0\prac6.AssemblyInfo.cs
+D:\c#\prac6\obj\Debug\net8.0\prac6.csproj.CoreCompileInputs.cache
+D:\c#\prac6\obj\Debug\net8.0\prac6.dll
+D:\c#\prac6\obj\Debug\net8.0\refint\prac6.dll
+D:\c#\prac6\obj\Debug\net8.0\prac6.pdb
+D:\c#\prac6\obj\Debug\net8.0\prac6.genruntimeconfig.cache
+D:\c#\prac6\obj\Debug\net8.0\ref\prac6.dll

@@ -1,0 +1,14 @@
+D:\c#\prac4difftype\bin\Debug\net8.0\prac4difftype.exe
+D:\c#\prac4difftype\bin\Debug\net8.0\prac4difftype.deps.json
+D:\c#\prac4difftype\bin\Debug\net8.0\prac4difftype.runtimeconfig.json
+D:\c#\prac4difftype\bin\Debug\net8.0\prac4difftype.dll
+D:\c#\prac4difftype\bin\Debug\net8.0\prac4difftype.pdb
+D:\c#\prac4difftype\obj\Debug\net8.0\prac4difftype.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\prac4difftype\obj\Debug\net8.0\prac4difftype.AssemblyInfoInputs.cache
+D:\c#\prac4difftype\obj\Debug\net8.0\prac4difftype.AssemblyInfo.cs
+D:\c#\prac4difftype\obj\Debug\net8.0\prac4difftype.csproj.CoreCompileInputs.cache
+D:\c#\prac4difftype\obj\Debug\net8.0\prac4difftype.dll
+D:\c#\prac4difftype\obj\Debug\net8.0\refint\prac4difftype.dll
+D:\c#\prac4difftype\obj\Debug\net8.0\prac4difftype.pdb
+D:\c#\prac4difftype\obj\Debug\net8.0\prac4difftype.genruntimeconfig.cache
+D:\c#\prac4difftype\obj\Debug\net8.0\ref\prac4difftype.dll

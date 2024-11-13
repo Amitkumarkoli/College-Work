@@ -1,0 +1,14 @@
+D:\c#\prac4difforder\bin\Debug\net8.0\prac4difforder.exe
+D:\c#\prac4difforder\bin\Debug\net8.0\prac4difforder.deps.json
+D:\c#\prac4difforder\bin\Debug\net8.0\prac4difforder.runtimeconfig.json
+D:\c#\prac4difforder\bin\Debug\net8.0\prac4difforder.dll
+D:\c#\prac4difforder\bin\Debug\net8.0\prac4difforder.pdb
+D:\c#\prac4difforder\obj\Debug\net8.0\prac4difforder.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\prac4difforder\obj\Debug\net8.0\prac4difforder.AssemblyInfoInputs.cache
+D:\c#\prac4difforder\obj\Debug\net8.0\prac4difforder.AssemblyInfo.cs
+D:\c#\prac4difforder\obj\Debug\net8.0\prac4difforder.csproj.CoreCompileInputs.cache
+D:\c#\prac4difforder\obj\Debug\net8.0\prac4difforder.dll
+D:\c#\prac4difforder\obj\Debug\net8.0\refint\prac4difforder.dll
+D:\c#\prac4difforder\obj\Debug\net8.0\prac4difforder.pdb
+D:\c#\prac4difforder\obj\Debug\net8.0\prac4difforder.genruntimeconfig.cache
+D:\c#\prac4difforder\obj\Debug\net8.0\ref\prac4difforder.dll

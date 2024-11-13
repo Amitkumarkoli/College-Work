@@ -1,0 +1,14 @@
+D:\c#\prac4diffnumber\bin\Debug\net8.0\prac4diffnumber.exe
+D:\c#\prac4diffnumber\bin\Debug\net8.0\prac4diffnumber.deps.json
+D:\c#\prac4diffnumber\bin\Debug\net8.0\prac4diffnumber.runtimeconfig.json
+D:\c#\prac4diffnumber\bin\Debug\net8.0\prac4diffnumber.dll
+D:\c#\prac4diffnumber\bin\Debug\net8.0\prac4diffnumber.pdb
+D:\c#\prac4diffnumber\obj\Debug\net8.0\prac4diffnumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\prac4diffnumber\obj\Debug\net8.0\prac4diffnumber.AssemblyInfoInputs.cache
+D:\c#\prac4diffnumber\obj\Debug\net8.0\prac4diffnumber.AssemblyInfo.cs
+D:\c#\prac4diffnumber\obj\Debug\net8.0\prac4diffnumber.csproj.CoreCompileInputs.cache
+D:\c#\prac4diffnumber\obj\Debug\net8.0\prac4diffnumber.dll
+D:\c#\prac4diffnumber\obj\Debug\net8.0\refint\prac4diffnumber.dll
+D:\c#\prac4diffnumber\obj\Debug\net8.0\prac4diffnumber.pdb
+D:\c#\prac4diffnumber\obj\Debug\net8.0\prac4diffnumber.genruntimeconfig.cache
+D:\c#\prac4diffnumber\obj\Debug\net8.0\ref\prac4diffnumber.dll
